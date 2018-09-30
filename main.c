@@ -3,6 +3,7 @@
 int main(int argc, char* argv[])
 {
     printf("Det her er en meget bedre funktion end før\n");
+    int test = 12345;
 }
 
 
